@@ -1,8 +1,5 @@
-.background {
+body {
     background-color: #9296F6;
-    background: url('/images/GH_Background.png') center / cover no-repeat;
-    background-attachment: fixed;
-    /* background-size: 100% 110%; */
 }
 
 /* Container code for contaier 0 aka(top of page) */
